@@ -17,9 +17,8 @@ export const metadata: Metadata = {
   title: "Create Next App",
   description: "This is a modern banking platform.",
   icons: {
-    icon: '/icons/logo.svg'
-  }
-  
+    icon: "/icons/logo.svg",
+  },
 };
 
 export default function RootLayout({
